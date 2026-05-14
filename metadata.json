@@ -1,0 +1,6 @@
+{
+  "name": "AI Meme Magic",
+  "description": "An AI-powered meme generator that uses Gemini to analyze images and suggest hilarious, contextually relevant captions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
